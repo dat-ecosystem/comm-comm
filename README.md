@@ -6,7 +6,7 @@ Open to anyone.
 
 Currently, the community members hold weekly calls, in turns held by community members [Martin](https://github.com/martinheidegger) and [Diego](https://github.com/dpaez).
 
-As Martin is in Japan, he holds the calls between GMT 21:00 ~ GMT 12:00 (every time 3 hour offset) which should suite eastern-europe/asia/oceania.
+As Martin is in Japan, he holds the calls between GMT 9:00 which should suite eastern-europe/asia/oceania.
 
 Diego's call are usually at GMT 18:00 which should suite the europe and the americas.
 
