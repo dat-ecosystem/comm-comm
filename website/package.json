@@ -14,16 +14,13 @@
   "dependencies": {
     "choo": "^6.13.1",
     "choo-service-worker": "^2.4.0",
-    "gh-api": "^1.0.0",
-    "gh-got": "^8.1.0",
-    "hasha": "^3.0.0",
-    "remark": "^10.0.1",
-    "remark-github": "^7.0.6",
     "sheetify": "^7.3.3",
     "tachyons": "^4.11.1"
   },
   "devDependencies": {
     "bankai": "^9.15.0",
+    "gh-got": "^8.1.0",
+    "hasha": "^3.0.0",
     "choo-devtools": "^2.5.1",
     "choo-scaffold": "^1.2.0",
     "dependency-check": "^3.3.0",
