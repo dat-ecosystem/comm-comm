@@ -1,4 +1,4 @@
-import { markdowner } from './node_modules/smh-markdowner/build/lib/index.js' // ? - why not working
+import { markdowner } from 'smh-markdowner'
 import { promises as fs } from 'fs'
 import ghGot from 'gh-got';
 
