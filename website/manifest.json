@@ -1,0 +1,14 @@
+{
+  "name": "comm-comm-site",
+  "short_name": "comm-comm-site",
+  "description": " website for the Dat comm-comm working group",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "icons": [{
+    "src": "/assets/icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}

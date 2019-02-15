@@ -1,0 +1,6 @@
+website/node_modules/
+website/dist/
+website/tmp/
+npm-debug.log*
+.DS_Store
+website/issues.json
