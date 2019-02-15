@@ -1,5 +1,11 @@
 # comm-comm-site
- website for the Dat comm-comm working group
+
+website for the Dat comm-comm working group
+
+* Displays basic information about comm-comm.
+* Pulls in latest issues that are **open** and labeled **meeting**, rebuilt on update via webhook.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b37bb6c9-1e02-4f35-a312-f9392e3a04bb/deploy-status)](https://app.netlify.com/sites/dat-comm-comm/deploys)
 
 ## Development
 
@@ -26,8 +32,13 @@ Command                | Description                                      |
 
 ## Deployment
 
+* Deployed via Netlify
+* Build with: `npm run get-issues && npm run build`
+* `dist` folder deployed
 
+### Github Webook
 
+* Uses webhook on *any* issue update in this repo to rebuild.
 
 ## Built With
 
@@ -36,6 +47,6 @@ Command                | Description                                      |
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
 
 

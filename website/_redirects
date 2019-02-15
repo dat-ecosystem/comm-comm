@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+http://dat-comm-comm.netlify.com/* http://comm-comm.datproject.org/:splat 301!
+
+# Single Page App Redirects
+/*    /index.html   200
