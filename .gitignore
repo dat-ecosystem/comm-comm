@@ -3,4 +3,5 @@ website/dist/
 website/tmp/
 npm-debug.log*
 .DS_Store
+website/readme.json
 website/issues.json

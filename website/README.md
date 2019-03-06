@@ -28,12 +28,16 @@ Command                | Description                                      |
 `$ npm run create`     | Generate a scaffold file
 `$ npm run inspect`    | Inspect the bundle's dependencies
 `$ npm run get-issues` | Download latest issues from GitHub
+`$ npm run get-readme` | Generate `readme.json` from parent folder
+`$ npm run get-data`   | Run both `get-issues` and `get-readme`
+`$ npm run ci`         | Run `test` & `get-data` & `build`
+
 
 
 ## Deployment
 
 * Deployed via Netlify
-* Build with: `npm run get-issues && npm run build`
+* Build with: `npm run ci`
 * `dist` folder deployed
 
 ### Github Webook

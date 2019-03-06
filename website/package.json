@@ -3,13 +3,21 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "get-data": "npm run get-issues && npm run get-readme",
     "get-issues": "node -r esm gh-issues.js",
+    "get-readme": "node -r esm get-readme.js",
     "build": "bankai build index.js",
     "create": "choo-scaffold",
     "inspect": "bankai inspect index.js",
-    "start": "npm run get-issues && bankai start index.js",
+    "start": "npm run get-data && bankai start index.js",
     "test": "standard && npm run test-deps",
-    "test-deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons"
+    "test-deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",
+    "ci": "npm run get-data && npm run test && npm run build"
+  },
+  "standard": {
+    "ignore": [
+      "dist/**"
+    ]
   },
   "dependencies": {
     "choo": "^6.13.1",
