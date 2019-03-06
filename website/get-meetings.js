@@ -55,7 +55,7 @@ import { createEvents } from 'ics'
         title: meeting.title,
         description: meeting.markdown,
         alarms: [
-          { action: 'display', trigger: { hours: 1, minutes: 0, before: true } }
+          { action: 'display', description: 'One hour until DAT comm-comm meeting', trigger: { hours: 1, minutes: 0, before: true } }
         ],
         organizer: {
           name: meeting.assignee.login
