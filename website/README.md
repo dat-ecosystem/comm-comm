@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Clone repo
 * `npm install`
-* `npm run get-issues` - download the latest issues from GH
+* `npm run get-meetings` - download the latest meetings from GH
 * `npm start` - run development server
 
 
@@ -27,7 +27,7 @@ Command                | Description                                      |
 `$ npm run build`      | Compile all files into `dist/`
 `$ npm run create`     | Generate a scaffold file
 `$ npm run inspect`    | Inspect the bundle's dependencies
-`$ npm run get-issues` | Download latest issues from GitHub
+`$ npm run get-meetings` | Download latest meetings from GitHub issues
 `$ npm run get-readme` | Generate `readme.json` from parent folder
 `$ npm run get-data`   | Run both `get-issues` and `get-readme`
 `$ npm run ci`         | Run `test` & `get-data` & `build`
