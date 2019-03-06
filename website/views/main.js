@@ -9,7 +9,7 @@ module.exports = view
 
 function renderMeeting (meeting) {
   const content = meeting.content.split(/^(.*)?\n/)
-  return `
+  return html`
     <article class="center mw5 mw6-ns hidden ba mv4">
       <h1 class="f4 bg-near-black white mv0 pv2 ph3">
           ${raw(content[1])}
