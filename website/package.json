@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "get-data": "npm run get-issues && npm run get-readme",
-    "get-issues": "node -r esm gh-issues.js",
+    "get-data": "npm run get-meetings && npm run get-readme",
+    "get-meetings": "node -r esm get-meetings.js",
     "get-readme": "node -r esm get-readme.js",
     "build": "bankai build index.js",
     "create": "choo-scaffold",
@@ -26,6 +26,7 @@
     "tachyons": "^4.11.1"
   },
   "devDependencies": {
+    "acorn": "^6.1.1",
     "bankai": "^9.15.0",
     "choo-devtools": "^2.5.1",
     "choo-scaffold": "^1.2.0",
@@ -33,6 +34,9 @@
     "esm": "^3.2.11",
     "gh-got": "^8.1.0",
     "hasha": "^3.0.0",
+    "ics": "^2.13.1",
+    "level": "^4.0.0",
+    "moment-timezone": "^0.5.23",
     "smh-markdowner": "^1.6.1",
     "standard": "^12.0.1"
   }

@@ -4,4 +4,5 @@ website/tmp/
 npm-debug.log*
 .DS_Store
 website/readme.json
-website/issues.json
+website/assets/dat-land_comm-comm.ics
+website/meetings.json
