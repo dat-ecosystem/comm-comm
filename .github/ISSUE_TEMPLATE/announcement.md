@@ -2,7 +2,7 @@
 name: Announcement
 about: I want to announce this to the DAT community.
 title: ''
-labels: ''
+labels: announcement
 assignees: ''
 
 ---
