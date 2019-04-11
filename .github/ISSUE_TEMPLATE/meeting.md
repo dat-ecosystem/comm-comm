@@ -11,4 +11,4 @@ Just an hour hanging out and talking about DAT stuff.
 
 Time: DD MMM YYYY, hh:mm GMT
 
-https://meet.jit.si/DATcomm-comm
+https://zoom.us/s/181036238
