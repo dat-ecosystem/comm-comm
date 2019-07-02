@@ -11,4 +11,4 @@ Just an hour hanging out and talking about DAT stuff.
 
 Time: DD MMM YYYY, hh:mm GMT
 
-https://zoom.us/s/181036238
+https://zoom.us/j/181036238
