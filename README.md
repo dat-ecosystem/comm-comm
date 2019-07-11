@@ -9,7 +9,7 @@ Open to anyone.
 Currently, we have weekly online calls, in turns held by community members [Martin](https://github.com/martinheidegger) and [Diego](https://github.com/dpaez). If you have something that you want to talk about, [👉 **open an issue**](https://github.com/dat-land/comm-comm/issues/new?assignees=&labels=meeting&template=meeting.md&title=) with the meeting time and chat location.
 
 - **eastern-europe/asia/oceania**: <br/>
-    As Martin is in Japan, he holds the calls between GMT 9:00 which should suite people from new zealand to europe.
+    As Martin is in Japan, he holds the calls around GMT 14:00 which should should be working for asians and many europeans _(and even some australians staying up late)_ .
 - **europe and the americas**: <br/>
     Diego's call are usually at GMT 18:00 which should suite the europe and the americas.
 
