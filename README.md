@@ -4,9 +4,11 @@
 
 Open to anyone.
 
+> https://comm-comm.datproject.org/
+
 <h2>2.</h2>
 
-Currently, we have weekly online calls, in turns held by community members [Martin](https://github.com/martinheidegger) and [Diego](https://github.com/dpaez). If you have something that you want to talk about, [👉 **open an issue**](https://github.com/dat-land/comm-comm/issues/new?assignees=&labels=meeting&template=meeting.md&title=) with the meeting time and chat location.
+Currently, we have weekly online calls, in turns held by community members [Martin](https://github.com/martinheidegger) and [Diego](https://github.com/dpaez). If you have something that you want to talk about, [👉 **open an issue**](https://github.com/dat-land/comm-comm/issues/new?assignees=&labels=meeting&template=meeting.md&title=) with the meeting time and chat location. If you're looking for the ICS calendar file, [here it is](https://comm-comm.datproject.org/assets/dat-land_comm-comm.ics).
 
 - **eastern-europe/asia/oceania**: <br/>
     As Martin is in Japan, he holds the calls around GMT 14:00 which should should be working for asians and many europeans _(and even some australians staying up late)_ .
