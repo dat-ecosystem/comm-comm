@@ -50,7 +50,7 @@ function view (state, emit) {
         <section class="fl mw7 w-50-m pa3 ml3">
           <a href="/assets/dat-land_comm-comm.ics" target="_blank" style="float: right" download="dat-land_comm-comm.ics"><img src="assets/date_range.svg" alt="Calendar as .ics file"></a>
 
-          ${renderMeetings(`Upcoming Meetings`, upcoming)}
+          ${renderMeetings('Upcoming Meetings', upcoming)}
         </section>
       </main>
     </body>

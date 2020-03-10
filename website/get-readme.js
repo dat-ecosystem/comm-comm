@@ -6,7 +6,7 @@ import path from 'path'
   const rawReadme = await fs.readFile(path.join(__dirname, '..', 'README.md'))
   const html = await markdowner(rawReadme)
 
-  await fs.writeFile(`readme.json`, JSON.stringify(html, null, 2))
+  await fs.writeFile('readme.json', JSON.stringify(html, null, 2))
 
-  console.log(`Readme updated`)
+  console.log('Readme updated')
 })()
