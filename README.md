@@ -8,7 +8,7 @@ Open to anyone.
 
 <h2>2.</h2>
 
-Currently, we have bi-weekly online calls, in turns held by community member [Diego](https://github.com/dpaez) with help from others. If you have something that you want to talk about, [👉 **open an issue**](https://github.com/dat-land/comm-comm/issues/new?assignees=&labels=meeting&template=meeting.md&title=) with the meeting time and chat location. If you're looking for the ICS calendar file, [here it is](https://comm-comm.datproject.org/assets/dat-land_comm-comm.ics).
+Currently, we have bi-weekly online calls, held by community member [Diego](https://github.com/dpaez) with help from others. If you have something that you want to talk about, [👉 **open an issue**](https://github.com/dat-land/comm-comm/issues/new?assignees=&labels=meeting&template=meeting.md&title=) with the meeting time and chat location. If you're looking for the ICS calendar file, [here it is](https://comm-comm.datproject.org/assets/dat-land_comm-comm.ics).
 
 - **europe and the americas**: <br/>
     Diego's call are usually at GMT 18:00 which should suite the europe and the americas.
