@@ -41,7 +41,7 @@ import { createEvents } from 'ics'
       if (a.time < b.time) return -1
       return 0
     })
-  await fs.writeFile(`meetings.json`, JSON.stringify({ meetings }, null, 2))
+  await fs.writeFile('meetings.json', JSON.stringify({ meetings }, null, 2))
 
   const cal = createEvents(
     meetings.map(meeting => {
@@ -64,7 +64,7 @@ import { createEvents } from 'ics'
   if (cal.error) {
     console.warn(cal.error)
   } else {
-    await fs.writeFile(`assets/dat-land_comm-comm.ics`, cal.value)
+    await fs.writeFile('assets/dat-land_comm-comm.ics', cal.value)
   }
 
   console.log('yay! all done')

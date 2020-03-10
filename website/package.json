@@ -21,23 +21,20 @@
   },
   "dependencies": {
     "choo": "^6.13.1",
-    "choo-service-worker": "^2.4.0",
-    "sheetify": "^7.3.3",
+    "choo-service-worker": "^3.0.0",
+    "sheetify": "^8.0.0",
     "tachyons": "^4.11.1"
   },
   "devDependencies": {
-    "acorn": "^6.1.1",
-    "bankai": "^9.15.0",
-    "choo-devtools": "^2.5.1",
+    "bankai": "^9.15.3",
+    "choo-devtools": "^3.0.3",
     "choo-scaffold": "^1.2.0",
-    "dependency-check": "^3.3.0",
-    "esm": "^3.2.11",
-    "gh-got": "^8.1.0",
-    "hasha": "^3.0.0",
-    "ics": "^2.13.1",
-    "level": "^4.0.0",
-    "moment-timezone": "^0.5.23",
-    "smh-markdowner": "^1.6.1",
-    "standard": "^12.0.1"
+    "dependency-check": "^4.1.0",
+    "esm": "^3.2.25",
+    "gh-got": "^9.0.0",
+    "ics": "^2.19.0",
+    "moment-timezone": "^0.5.28",
+    "smh-markdowner": "^2.1.3",
+    "standard": "^14.3.1"
   }
 }
