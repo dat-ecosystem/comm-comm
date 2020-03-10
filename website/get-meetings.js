@@ -5,6 +5,7 @@ import moment from 'moment-timezone'
 import { createEvents } from 'ics'
 
 (async () => {
+  const timezones = moment.tz.names()
   const { body } = await ghGot('repos/dat-land/comm-comm/issues?state=all&labels=meeting')
   const meetings = (await Promise.all(
     body
@@ -18,9 +19,14 @@ import { createEvents } from 'ics'
           }
         }
         let time
-        const timeParts = /^\s*Time:\s*(\d{1,2} \w{3} \d{4}, \d{1,2}:\d{2}) (.*)\s*$/gm.exec(issue.body)
+        const timeParts = /^(\s|⏰|:alarm_clock:)*Time:\s*(\d{1,2} \w{3} \d{4}, \d{1,2}:\d{2}) (.*)\s*$/gm.exec(issue.body)
         if (timeParts) {
-          time = moment.tz(timeParts[1], 'DD MMM YYYY, hh:mm', timeParts[2])
+          const timezone = timeParts[3]
+          if (timezones.includes(timezone)) {
+            time = moment.tz(timeParts[2], 'DD MMM YYYY, hh:mm', timezone)
+          } else {
+            console.log(`#${issue.number} has a unknown timezone ${timezone}`)
+          }
         }
         return {
           title: issue.title,
@@ -28,6 +34,7 @@ import { createEvents } from 'ics'
           updated_at: moment(issue.updated_at),
           created_at: moment(issue.created_at),
           time,
+          number: issue.number,
           assignee,
           markdown: issue.body,
           html: (await markdowner(issue.body)).content,
@@ -35,7 +42,17 @@ import { createEvents } from 'ics'
         }
       })
   ))
-    .filter(issue => issue.time && issue.assignee) // Skipping issues without time or assignee (not confirmed)
+    .filter(issue => {
+      if (!issue.time) {
+        console.log(`#${issue.number} doesn't have a time.`)
+        return false
+      }
+      if (!issue.assignee) {
+        console.log(`#${issue.number} does't have an assignee.`)
+        return false
+      }
+      return true
+    }) // Skipping issues without time or assignee (not confirmed)
     .sort((a, b) => {
       if (a.time > b.time) return 1
       if (a.time < b.time) return -1
@@ -63,10 +80,10 @@ import { createEvents } from 'ics'
   )
   if (cal.error) {
     console.warn(cal.error)
+    return
   } else {
     await fs.writeFile(`assets/dat-land_comm-comm.ics`, cal.value)
   }
 
-  console.log('yay! all done')
-  console.log(`number of issues added ${body.length}`)
+  console.log(`Yay! all done, Number of issues processed ${body.length} resulting in ${meetings.length} meetings.`)
 })()
