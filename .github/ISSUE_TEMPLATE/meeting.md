@@ -13,7 +13,8 @@ Just an hour hanging out and talking about DAT stuff.
 
 :alarm_clock: Time: DD MMM YYYY, hh:mm GMT
 
-:link: https://zoom.us/j/181036238
+:link: https://zoom.us/j/181036238 (Native)
+:link: https://zoom.us/wc/join/181036238?pwd= (Web)
 
 | Timezone      |  Date/Time           |
 | ------------- |:-------------:|
