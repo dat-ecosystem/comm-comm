@@ -11,7 +11,7 @@
     "inspect": "bankai inspect index.js",
     "start": "npm run get-data && bankai start index.js",
     "test": "standard && npm run test-deps",
-    "test-deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",
+    "test-deps": "dependency-check . --extra --no-dev -i tachyons",
     "ci": "npm run get-data && npm run test && npm run build"
   },
   "standard": {
