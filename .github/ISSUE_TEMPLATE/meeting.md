@@ -32,9 +32,7 @@ Just an hour hanging out and talking about DAT stuff.
 
 :link: https://zoom.us/j/181036238 (Native)<br/>
 :link: https://zoom.us/wc/join/181036238?pwd= (Web)
-
 <!-- :link: https://talky.io/dat-comm-comm (Web) -->
-
 <!-- :link: https://meet.jit.si/dat-comm-comm (Web) -->
 
 <!-- If you use this template, don't forget to update the Meeting times below (also in the link!) -->
