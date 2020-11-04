@@ -28,9 +28,14 @@ Just an hour hanging out and talking about DAT stuff.
 
 :point_right: **Post a comment in this github issue with any topics you'd like to cover this week**
 
+<!-- Choose the hangout you'd like to use (or add the one of your choice). Use only one and comment out the others -->
+
 :link: https://zoom.us/j/181036238 (Native)<br/>
 :link: https://zoom.us/wc/join/181036238?pwd= (Web)
 
+<!-- :link: https://talky.io/dat-comm-comm (Web) -->
+
+<!-- :link: https://meet.jit.si/dat-comm-comm (Web) -->
 
 <!-- If you use this template, don't forget to update the Meeting times below (also in the link!) -->
 
