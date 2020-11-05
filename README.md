@@ -1,14 +1,14 @@
 <h2>1.</h2>
 
-[Dat comm-comm](https://github.com/dat-land/comm-comm) is an open working group with a focus on improving the communication around Dat. It is also a place where users and companies can share their experiences using Dat. Loosely structured community communication repo.
+[Dat comm-comm](https://github.com/dat-land/comm-comm) is an open working group with a focus on improving the communication around Dat. It is also a place where users and companies can share their experiences using Dat. Loosely structured community communication repo.:
 
-Open to anyone.
+**We welcome everyone interested in [hyper](https://hypercore-protocol.org), [dat](https://datproject.org) or similar projects to join us! :hugs:**
 
 > https://comm-comm.datproject.org/
 
 <h2>2.</h2>
 
-Currently, different organizers try to have calls about 3~4 times a month. If you have something that you want to talk about, [👉 **open an issue**](https://github.com/dat-land/comm-comm/issues/new?assignees=&labels=meeting&template=meeting.md&title=) with the meeting time and chat location. If you're looking for the ICS calendar file, [here it is](https://comm-comm.datproject.org/assets/dat-land_comm-comm.ics).
+Currently, different volunteers try to have calls about 3~4 times a month. If you have something that you want to talk about, [👉 **open an issue**](https://github.com/dat-land/comm-comm/issues/new?assignees=&labels=meeting&template=meeting.md&title=) with the meeting time and chat location. If you're looking for the ICS calendar file, [here it is](https://comm-comm.datproject.org/assets/dat-land_comm-comm.ics).
 
 [Community Calls](https://github.com/dat-land/comm-comm/issues?q=is%3Aissue+label%3Ameeting)
 
