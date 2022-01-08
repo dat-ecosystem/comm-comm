@@ -1,0 +1,694 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-128
+SUMMARY:20200312 - meeting
+DTSTAMP:20200313T040300Z
+DTSTART:20200312T170000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/128) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 12 Mar 2020\, 18:00 GMT\n\n:link: https://zoom.us/j
+	/181036238\n\n| Timezone      |  Date/Time           |\n| ------------- |:
+	-------------:|\n| Buenos Aires  | 12 Mar\, 3 PM |\n| Toronto       | 12 M
+	ar\, 2 PM      |\n| New York      | 12 Mar\, 2 PM      |\n| Los Angeles   
+	| 12 Mar\, 11 AM      |\n| Berlin        | 12 Mar\, 7 PM      |\n\nOr in y
+	our local time: https://www.timeanddate.com/worldclock/fixedtime.html?msg=
+	Dat+Comm-Comm+Meeting+2020-03-12&iso=20200312T18&p1=1440&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/128
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-132
+SUMMARY:20200326 - meeting
+DTSTAMP:20200326T190300Z
+DTSTART:20200326T170000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/132) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 26 Mar 2020\, 18:00 GMT\n\n:link: https://zoom.us/j
+	/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= (Web)\n
+	\n| Timezone      |  Date/Time           |\n| ------------- |:------------
+	-:|\n| Buenos Aires  | 26 Mar\, 3 PM |\n| Toronto       | 26 Mar\, 2 PM   
+	   |\n| New York      | 26 Mar\, 2 PM      |\n| Los Angeles   | 26 Mar\, 1
+	1 AM      |\n| Berlin        | 26 Mar\, 7 PM      |\n\nOr in your local ti
+	me: https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dat+Comm-Com
+	m+Meeting+2020-03-26&iso=20200326T18&p1=1440&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/132
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-133
+SUMMARY:20200402 - meeting
+DTSTAMP:20200403T020400Z
+DTSTART:20200402T060000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/133) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 2 Apr 2020\, 17:00 Asia/Tokyo\n\n:link: https://zoo
+	m.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= (
+	Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 2 Apr\, 7 PM |\n| 
+	Tokyo | 2 Apr\, 5 PM |\n| Berlin | 2 Apr\, 10 AM |\n| Buenos Aires | 2 Apr
+	\, 5 AM |\n| New York | 2 Apr\, 4 AM |\n| Los Angeles | 2 Apr\, 1 AM |\n\n
+	Or in your local time: https://www.timeanddate.com/worldclock/fixedtime.ht
+	ml?msg=Dat+Comm-Comm+Meeting+2020-04-02&iso=20200402T17&p1=671&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/133
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-136
+SUMMARY:20200409 - meeting
+DTSTAMP:20200414T120400Z
+DTSTART:20200409T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/136) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 9 Apr 2020\, 18:00 GMT\n\n:link: https://zoom.us/j/
+	181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= (Web)\n\
+	n| Timezone      |  Date/Time           |\n| ------------- |:-------------
+	:|\n| Buenos Aires  | 9 Apr\, 3 PM |\n| Toronto       | 9 Apr\, 2 PM      
+	|\n| New York      | 9 Apr\, 2 PM       |\n| Los Angeles   | 9 Apr\, 11 AM
+	       |\n| Berlin        | 9 Apr\, 7 PM       |\n\nOr in your local time:
+	 https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dat+Comm-Comm+M
+	eeting+2020-04-09&iso=20200409T18&p1=1440&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/136
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-138
+SUMMARY:20200416 - meeting
+DTSTAMP:20200428T130400Z
+DTSTART:20200416T060000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/138) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 16 Apr 2020\, 17:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 2 Apr\, 6 PM |\n|
+	 Tokyo | 2 Apr\, 5 PM |\n| Berlin | 2 Apr\, 10 AM |\n| Buenos Aires | 2 Ap
+	r\, 5 AM |\n| New York | 2 Apr\, 4 AM |\n| Los Angeles | 2 Apr\, 1 AM |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-04-16&iso=20200416T17&p1=671&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/138
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-140
+SUMMARY:20200423 - meeting
+DTSTAMP:20200424T020400Z
+DTSTART:20200423T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 23 Apr 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 23 Apr\, 3 PM |\n| Toronto     
+	  | 23 Apr\, 2 PM      |\n| New York      | 23 Apr\, 2 PM      |\n| Los An
+	geles   | 23 Apr\, 11 AM      |\n| Berlin        | 23 Apr\, 8 PM      |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-04-23&iso=20200423T18&p1=1440&ah=1\n\n\
+	n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/140
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-143
+SUMMARY:20200430 - meeting
+DTSTAMP:20200429T090400Z
+DTSTART:20200430T060000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/143) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 30 Apr 2020\, 17:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 2 Apr\, 6 PM |\n|
+	 Tokyo | 2 Apr\, 5 PM |\n| Berlin | 2 Apr\, 10 AM |\n| Buenos Aires | 2 Ap
+	r\, 5 AM |\n| New York | 2 Apr\, 4 AM |\n| Los Angeles | 2 Apr\, 1 AM |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-04-30&iso=20200416T17&p1=671&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/143
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-144
+SUMMARY:20200507 - meeting
+DTSTAMP:20200507T220500Z
+DTSTART:20200507T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 07 May 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 07 May\, 3 PM |\n| Toronto     
+	  | 07 May\, 2 PM      |\n| New York      | 07 May\, 2 PM      |\n| Los An
+	geles   | 07 May\, 11 AM      |\n| Berlin        | 07 May\, 8 PM      |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-05-07&iso=20200507T18&p1=1440&ah=1\n\n\
+	n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/144
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-145
+SUMMARY:20200514 - meeting
+DTSTAMP:20200515T200500Z
+DTSTART:20200514T060000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/145) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 14 May 2020\, 17:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 2 Apr\, 6 PM |\n|
+	 Tokyo | 2 Apr\, 5 PM |\n| Berlin | 2 Apr\, 10 AM |\n| Buenos Aires | 2 Ap
+	r\, 5 AM |\n| New York | 2 Apr\, 4 AM |\n| Los Angeles | 2 Apr\, 1 AM |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-05-14&iso=20200514T17&p1=671&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/145
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-147
+SUMMARY:20200521 - meeting
+DTSTAMP:20200813T080800Z
+DTSTART:20200521T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 21 May 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 21 May\, 3 PM |\n| Toronto     
+	  | 21 May\, 2 PM      |\n| New York      | 21 May\, 2 PM      |\n| Los An
+	geles   | 21 May\, 11 AM      |\n| Berlin        | 21 May\, 8 PM      |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-05-21&iso=20200521T18&p1=1440&ah=1\n\n\
+	n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/147
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-153
+SUMMARY:20200528 - meeting
+DTSTAMP:20200527T120500Z
+DTSTART:20200528T060000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/153) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 28 May 2020\, 17:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 2 Apr\, 6 PM |\n|
+	 Tokyo | 2 Apr\, 5 PM |\n| Berlin | 2 Apr\, 10 AM |\n| Buenos Aires | 2 Ap
+	r\, 5 AM |\n| New York | 2 Apr\, 4 AM |\n| Los Angeles | 2 Apr\, 1 AM |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-05-28&iso=20200528T17&p1=671&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/153
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-154
+SUMMARY:20200604 - meeting
+DTSTAMP:20200610T180600Z
+DTSTART:20200604T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 04 Jun 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 04 Jun\, 3 PM |\n| Toronto     
+	  | 04 Jun\, 2 PM      |\n| New York      | 04 Jun\, 2 PM      |\n| Los An
+	geles   | 04 Jun\, 11 AM      |\n| Berlin        | 04 Jun\, 8 PM      |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-06-04&iso=20200604T18&p1=1440&ah=1\n\n\
+	n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/154
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-156
+SUMMARY:20200611 - meeting
+DTSTAMP:20201103T231100Z
+DTSTART:20200611T060000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/153) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 11 Jun 2020\, 17:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 11 Jun\, 6 PM |\n
+	| Tokyo | 11 Jun\, 5 PM |\n| Berlin | 11 Jun\, 10 AM |\n| Buenos Aires | 1
+	1 Jun\, 5 AM |\n| New York | 11 Jun\, 4 AM |\n| Los Angeles | 11 Jun\, 1 A
+	M |\n\nOr in your local time: https://www.timeanddate.com/worldclock/fixed
+	time.html?msg=Dat+Comm-Comm+Meeting+2020-06-11&iso=20200611T17&p1=671&ah=1
+	\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/156
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-157
+SUMMARY:20200618 - meeting
+DTSTAMP:20200618T210600Z
+DTSTART:20200618T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 18 Jun 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 18 Jun\, 3 PM |\n| Toronto     
+	  | 18 Jun\, 2 PM      |\n| New York      | 18 Jun\, 2 PM      |\n| Los An
+	geles   | 18 Jun\, 11 AM      |\n| Berlin        | 18 Jun\, 8 PM      |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-06-18&iso=20200618T18&p1=1440&ah=1\n\n\
+	n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/157
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-159
+SUMMARY:20200625 - meeting
+DTSTAMP:20200813T080800Z
+DTSTART:20200625T060000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/159) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 25 Jun 2020\, 17:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 25 Jun\, 6 PM |\n
+	| Tokyo | 25 Jun\, 5 PM |\n| Berlin | 25 Jun\, 14 AM |\n| Buenos Aires | 2
+	5 Jun\, 9 AM |\n| New York | 25 Jun\, 8 AM |\n| Los Angeles | 25 Jun\, 5 A
+	M |\n\nOr in your local time: https://www.timeanddate.com/worldclock/fixed
+	time.html?msg=Dat+Comm-Comm+Meeting+2020-06-25&iso=20200625T17&p1=671&ah=1
+	\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/159
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-160
+SUMMARY:20200702 - meeting
+DTSTAMP:20200703T160700Z
+DTSTART:20200702T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 02 Jul 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 2 Jul\, 3 PM |\n| Toronto      
+	 | 2 Jul\, 2 PM      |\n| New York      | 2 Jul\, 2 PM      |\n| Los Angel
+	es   | 2 Jul\, 11 AM      |\n| Berlin        | 2 Jul\, 8 PM      |\n\nOr i
+	n your local time: https://www.timeanddate.com/worldclock/fixedtime.html?m
+	sg=Dat+Comm-Comm+Meeting+2020-07-02&iso=20200702T18&p1=1440&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/160
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-162
+SUMMARY:20200709 - meeting
+DTSTAMP:20200722T160700Z
+DTSTART:20200709T060000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/162) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 09 Jul 2020\, 17:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 09 Jul\, 8 PM |\n
+	| Tokyo | 09 Jul\, 7 PM |\n| Berlin | 09 Jul\, 12 AM |\n| Buenos Aires | 0
+	9 Jul\, 7 AM |\n| New York | 09 Jul\, 6 AM |\n| Los Angeles | 09 Jul\, 3 A
+	M |\n\nOr in your local time: https://www.timeanddate.com/worldclock/fixed
+	time.html?msg=Dat+Comm-Comm+Meeting+2020-07-09&iso=20200709T17&p1=671&ah=1
+	\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/162
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-163
+SUMMARY:20200716 - meeting
+DTSTAMP:20200722T150700Z
+DTSTART:20200716T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 16 Jul 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 16 Jul\, 3 PM |\n| Toronto     
+	  | 16 Jul\, 2 PM      |\n| New York      | 16 Jul\, 2 PM      |\n| Los An
+	geles   | 16 Jul\, 11 AM      |\n| Berlin        | 16 Jul\, 8 PM      |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-07-16&iso=20200716T18&p1=1440&ah=1\n\n\
+	n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/163
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-165
+SUMMARY:20200723 - meeting
+DTSTAMP:20200723T100700Z
+DTSTART:20200723T080000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/165) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 23 Jul 2020\, 19:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 09 Jul\, 8 PM |\n
+	| Tokyo | 09 Jul\, 7 PM |\n| Berlin | 09 Jul\, 12 AM |\n| Buenos Aires | 0
+	9 Jul\, 7 AM |\n| New York | 09 Jul\, 6 AM |\n| Los Angeles | 09 Jul\, 3 A
+	M |\n\nOr in your local time: https://www.timeanddate.com/worldclock/fixed
+	time.html?msg=Dat+Comm-Comm+Meeting+2020-07-23&iso=20200723T19&p1=671&ah=1
+	\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/165
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-166
+SUMMARY:20200806 - meeting
+DTSTAMP:20200806T230800Z
+DTSTART:20200806T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 06 Aug 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 6 Aug\, 3 PM |\n| Toronto      
+	 | 6 Aug\, 2 PM      |\n| New York      | 6 Aug\, 2 PM      |\n| Los Angel
+	es   | 6 Aug\, 11 AM      |\n| Berlin        | 6 Aug\, 8 PM      |\n\nOr i
+	n your local time: https://www.timeanddate.com/worldclock/fixedtime.html?m
+	sg=Dat+Comm-Comm+Meeting+2020-08-06&iso=20200806T18&p1=1440&ah=1\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/166
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-169
+SUMMARY:20200813 - meeting
+DTSTAMP:20200814T040800Z
+DTSTART:20200813T100000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/169) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 13 Aug 2020\, 21:00 Asia/Tokyo\n\n:link: https://zo
+	om.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036238?pwd= 
+	(Web)\n\n| Timezone | Date/Time |\n|---|---|\n| Sydney | 13 Aug\, 10 PM |\
+	n| Tokyo | 13 Aug\, 9 PM |\n| Berlin | 13 Aug\, 10 AM |\n| Buenos Aires | 
+	13 Aug\, 5 AM |\n| New York | 13 Aug\, 4 AM |\n| Los Angeles | 13 Aug\, 1 
+	AM |\n\nOr in your local time: https://www.timeanddate.com/worldclock/fixe
+	dtime.html?msg=Dat+Comm-Comm+Meeting+2020-08-13&iso=20200813T21&p1=671&ah=
+	1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/169
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-170
+SUMMARY:20200827 - meeting
+DTSTAMP:20201103T231100Z
+DTSTART:20200827T160000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 27 Aug 2020\, 18:00 GMT\n\n:lin
+	k: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/18
+	1036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| --------
+	----- |:-------------:|\n| Buenos Aires  | 27 Aug\, 3 PM |\n| Toronto     
+	  | 27 Aug\, 2 PM      |\n| New York      | 27 Aug\, 2 PM      |\n| Los An
+	geles   | 27 Aug\, 11 AM      |\n| Berlin        | 27 Aug\, 8 PM      |\n\
+	nOr in your local time: https://www.timeanddate.com/worldclock/fixedtime.h
+	tml?msg=Dat+Comm-Comm+Meeting+2020-08-27&iso=20200827T18&p1=1440&ah=1\n\n\
+	n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/170
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-173
+SUMMARY:20201028 - meeting
+DTSTAMP:20201106T011100Z
+DTSTART:20201028T170000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in this github issue with any topics you'd like t
+	o cover this week**\n\n:alarm_clock: Time: 28 Oct 2020\, 19:00 Europe/Berl
+	in\n\n:link: https://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/
+	wc/join/181036238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n
+	| ------------- |:-------------:|\n| Buenos Aires  | 28 10\, 4 PM |\n| Tor
+	onto       | 28 10\, 3 PM      |\n| New York      | 28 10\, 3 PM      |\n|
+	 Los Angeles   | 28 10\, 12 PM      |\n| Berlin        | 28 10\, 8 PM     
+	 |\n\nOr in your local time: https://www.timeanddate.com/worldclock/fixedt
+	ime.html?msg=Dat+Comm-Comm+Meeting+2020-10-28&iso=20201028T19&p1=1440&ah=1
+	\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/173
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-174
+SUMMARY:20201104 - meeting
+DTSTAMP:20201106T021100Z
+DTSTART:20201105T010000Z
+DESCRIPTION:Just an hour hanging out and talking about DAT stuff.\n\n:point
+	_right: **Post a comment in [this github issue](https://github.com/datproj
+	ect/comm-comm/issues/174) with any topics you'd like to cover this week**\
+	n\n:alarm_clock: Time: 04 Nov 2020\, 18:00 America/Los_Angeles\n\n:link: h
+	ttps://zoom.us/j/181036238 (Native)\n:link: https://zoom.us/wc/join/181036
+	238?pwd= (Web)\n\n| Timezone      |  Date/Time           |\n| ------------
+	- |:-------------:|\n| Buenos Aires  | 04 Nov\, 10 PM |\n| Toronto       |
+	 04 Nov\, 9 PM      |\n| New York      | 04 Nov\, 9 PM      |\n| Los Angel
+	es   | 04 Nov\, 6 PM      |\n| Berlin        | 05 Nov\, 3 AM      |\n\nOr 
+	in your local time: https://www.timeanddate.com/worldclock/fixedtime.html?
+	msg=Dat+Comm-Comm+Meeting+2020-11-04&iso=20201104T18&p1=137&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/174
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-180
+SUMMARY:2020-11-11 - meeting
+DTSTAMP:20201118T111100Z
+DTSTART:20201111T210000Z
+DESCRIPTION:<!--\nThis is for listed meetings on the https://comm-comm.datp
+	roject.org.\nTo be listed this issue needs to have two things:\n\n1. a **c
+	orrect** time \n2. an **assigned** organizer\n\nChange the meeting time be
+	low!\n\nExample: 11 Nov 2020\, 13:40 Asia/Tokyo\nValid Timezones: https://
+	en.wikipedia.org/wiki/List_of_tz_database_time_zones\n-->\n\n:alarm_clock:
+	 Time: 11 Nov 2020\, 22:00 Etc/GMT\n\n<!-- Everything after this is a sugg
+	estion\, you may change what suits to you! -->\n\nJust an hour hanging out
+	 and talking about DAT stuff.\n\n:point_right: **Post a comment in [this g
+	ithub issue](https://github.com/datproject/comm-comm/issues/180) with any 
+	topics you'd like to cover this week**\n\n<!-- Choose the hangout you'd li
+	ke to use (or add the one of your choice). Use only one and comment out th
+	e others -->\n\n:link: **https://meet.jit.si/dat-comm-comm (Web)**\n\n<!--
+	 If you use this template\, don't forget to update the Meeting times below
+	 (also in the link!) -->\n\n| Timezone      |  Date/Time    |\n| ---------
+	---- |:-------------:|\n| Buenos Aires  | Nov 11\, 7 PM |\n| Toronto      
+	 | Nov 11\, 5 PM |\n| Tokyo      | Nov 12\, 7 AM |\n| Los Angeles   | Nov 
+	11\, 2 PM |\n| Berlin        | Nov 11\, 11 PM |\n\nOr in your local time: 
+	https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dat+Comm-Comm+Me
+	eting+2020-11-11&iso=20201111T22&p1=769&ah=1\n\n---\n\nPS: If there are an
+	y issues with Jitsi\, we'll move to \n\n:link: https://zoom.us/j/181036238
+	 (Native)<br/>\n:link: https://zoom.us/wc/join/181036238?pwd= (Web)
+URL:https://github.com/dat-ecosystem/comm-comm/issues/180
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-178
+SUMMARY:20201118 - meeting
+DTSTAMP:20201121T151100Z
+DTSTART:20201118T180000Z
+DESCRIPTION:<!--\nThis is for listed meetings on the https://comm-comm.datp
+	roject.org.\nTo be listed this issue needs to have two things:\n\n1. a **c
+	orrect** time \n2. an **assigned** organizer\n\nChange the meeting time be
+	low!\n\nExample: 04 Nov 2020\, 13:40 Asia/Tokyo\nValid Timezones: https://
+	en.wikipedia.org/wiki/List_of_tz_database_time_zones\n-->\n\n:alarm_clock:
+	 Time: 18 Nov 2020\, 14:00 America/New_York\n\n<!-- Everything after this 
+	is a suggestion\, you may change what suits to you! -->\n\nJust an hour ha
+	nging out and talking about DAT stuff.\n\n:point_right: **Post a comment i
+	n [this github issue](https://github.com/datproject/comm-comm/issues/178) 
+	with any topics you'd like to cover this week**\n\n<!-- Choose the hangout
+	 you'd like to use (or add the one of your choice). Use only one and comme
+	nt out the others -->\n\n:link: https://zoom.us/j/181036238 (Native)<br/>\
+	n:link: https://zoom.us/wc/join/181036238?pwd= (Web)\n<!-- :link: https://
+	talky.io/dat-comm-comm (Web) -->\n<!-- :link: https://meet.jit.si/dat-comm
+	-comm (Web) -->\n\n<!-- If you use this template\, don't forget to update 
+	the Meeting times below (also in the link!) -->\n\n| Timezone      |  Date
+	/Time     |\n| ------------- |:--------------:|\n| Buenos Aires  | 18 Nov\
+	, 4 PM   |\n| Toronto       | 18 Nov\, 2 PM   |\n| New York      | 18 Nov\
+	, 2 PM   |\n| Los Angeles   | 18 Nov\, 11 AM  |\n| Berlin        | 18 Nov\
+	, 8 PM   |\n\nOr in your local time: https://www.timeanddate.com/worldcloc
+	k/fixedtime.html?msg=Dat+Comm-Comm+Meeting+2020-11-18&iso=20201118T19&p1=1
+	440&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/178
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-182
+SUMMARY:20201203 - meeting
+DTSTAMP:20201119T131100Z
+DTSTART:20201203T000000Z
+DESCRIPTION::alarm_clock: Time: 03 Dec 2020\, 10:00 Asia/Tokyo\n\nJust an h
+	our hanging out and talking about DAT stuff.\n\n:point_right: **Post a com
+	ment in [this github issue](https://github.com/datproject/comm-comm/issues
+	/182) with any topics you'd like to cover this week**\n\n\n:link: https://
+	zoom.us/j/181036238 (Native)<br/>\n:link: https://zoom.us/wc/join/18103623
+	8?pwd= (Web)\n\n| Timezone      |  Date/Time    |\n| ------------- |:-----
+	--------:|\n| Buenos Aires  | 02 Dec\, 10 PM |\n| Toronto       | 02 Dec\,
+	 08 PM |\n| New York      | 02 Dec\, 08 PM |\n| Los Angeles   | 02 Dec\, 0
+	5 PM |\n| Berlin        | 03 Dec\, 02 AM |\n\nOr in your local time: https
+	://www.timeanddate.com/worldclock/fixedtime.html?msg=Dat+Comm-Comm+Meeting
+	+2020-12-03&iso=20201203T10&p1=248&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/182
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dat-land-comm-comm-meeting-184
+SUMMARY:20201217 - meeting
+DTSTAMP:20201217T191200Z
+DTSTART:20201217T180000Z
+DESCRIPTION::alarm_clock: Time: 17 Dec 2020\, 19:00 GMT\n\nJust an hour han
+	ging out and talking about DAT/Hyper* stuff. Now that Beaker has turned 1.
+	0 🎂\, we've got new opportunities to invite and involve hackers of all sk
+	ill sets and levels!\n\n:point_right: **Post a comment in this github issu
+	e with any topics you'd like to cover this week**\n\n:link: https://zoom.u
+	s/j/181036238 (Native)<br/>\n:link: https://zoom.us/wc/join/181036238?pwd=
+	 (Web)\n\n| Timezone      |  Date/Time    |\n| ------------- |:-----------
+	--:|\n| California   | Dec 17 Thu\, 11 AM |\n| Colorado   | Dec 17 Thu\, n
+	oon |\n| New York      | Dec 17 Thu\, 02 PM |\n| Buenos Aires  | Dec 17 Th
+	u\, 04 PM |\n| London        | Dec 17 Thu\, 07 PM or 19:00 |\n| Berlin    
+	    | Dec 17 Thu\, 08 PM or 20:00 |\n\nOr in your local time: https://www.
+	timeanddate.com/worldclock/fixedtime.html?msg=Dat+Comm-Comm+Meeting+2020-1
+	2-17&iso=20201217T19&p1=1440&ah=1\n\n\n
+URL:https://github.com/dat-ecosystem/comm-comm/issues/184
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:One hour until DAT comm-comm meeting
+TRIGGER:-PT1H
+END:VALARM
+DURATION:PT1H
+END:VEVENT
+END:VCALENDAR
