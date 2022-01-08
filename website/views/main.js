@@ -41,6 +41,28 @@ function view (state, emit) {
 
   return html`
     <body class="code lh-copy">
+    <div class="positioned">
+    <style>
+    .positioned {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: yellow;
+      border-bottom: 2px solid black;
+      font-family: monospace;
+      font-size: 20px;
+      font-weight: bold;
+      color: black;
+      z-index: 999;
+      width: 100%;
+      padding: 20px;
+    }
+    .positioned a {
+      color: #045943;
+    }
+    </style>
+    <span>This website is deprecated. Please check out the new version at <a target="_blank" href="https://dat-ecosystem.org/"> https://dat-ecosystem.org </a></span>
+    </div>
       <h1 class="f-title pb2 tc bb mw6 center">Dat Comm-Comm</h1>
       <main class="w-100 flex-ns justify-center">
         <section class="mw6 w-50-m w-third-l pa3">
